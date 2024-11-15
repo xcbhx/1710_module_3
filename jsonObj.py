@@ -16,16 +16,6 @@ dictionaryJoke = {
     }
 }
 
-# dictionarySong = {
-#     "type": "Pop Song",
-#     "value": {
-#         "title": "TRUSTFALL",
-#         "artist": "Pink",
-#         "album": "Trustfall",
-#         "length": 214
-#     }
-# }
-
 {
     "type": "success",
     "value": {
